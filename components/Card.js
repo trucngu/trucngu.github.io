@@ -4,9 +4,8 @@ import Link from './Link'
 const Card = ({ title, description, imgSrc, href }) => (
   <div className="md p-4 md:w-1/2" style={{ maxWidth: '544px' }}>
     <div
-      className={`${
-        imgSrc && 'h-full'
-      }  overflow-hidden rounded-md border-2 border-gray-200 border-opacity-60 dark:border-gray-700`}
+      className={`${imgSrc && 'h-full'
+        }  overflow-hidden rounded-md border-2 border-gray-200 border-opacity-60 dark:border-gray-700`}
     >
       {imgSrc &&
         (href ? (
@@ -17,6 +16,7 @@ const Card = ({ title, description, imgSrc, href }) => (
               className="object-cover object-center md:h-36 lg:h-48"
               width={544}
               height={306}
+              loader={() => <p>Loading..</p>}
             />
           </Link>
         ) : (
@@ -26,6 +26,7 @@ const Card = ({ title, description, imgSrc, href }) => (
             className="object-cover object-center md:h-36 lg:h-48"
             width={544}
             height={306}
+            loader={() => <p>Loading..</p>}
           />
         ))}
       <div className="p-6">

@@ -7,19 +7,9 @@
       <language>en-gb</language>
       <managingEditor>truchjkl@gmail.com (Truc Nguyen)</managingEditor>
       <webMaster>truchjkl@gmail.com (Truc Nguyen)</webMaster>
-      <lastBuildDate>Sun, 02 May 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://trucngu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://trucngu.github.io/tags/features/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://trucngu.github.io/blog/.net/unit-test-with-moq</guid>
-    <title>Unit Test with Moq .NET</title>
-    <link>https://trucngu.github.io/blog/.net/unit-test-with-moq</link>
-    <description>Testing in .NET</description>
-    <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
-    <author>truchjkl@gmail.com (Truc Nguyen)</author>
-    <category>.net</category><category>unittest</category><category>tdd</category>
-  </item>
-
   <item>
     <guid>https://trucngu.github.io/blog/code-sample</guid>
     <title>Sample .md file</title>

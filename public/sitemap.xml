@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://trucngu.github.io/about</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/blog/code-sample</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags/code</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags/features</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags/markdown</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags/net</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags/next-js</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags/tdd</loc>
+  </url>
+
+  <url>
+    <loc>https://trucngu.github.io/tags/unittest</loc>
+  </url>
+</urlset>

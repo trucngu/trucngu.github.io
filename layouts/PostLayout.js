@@ -63,6 +63,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                           height="38"
                           alt="avatar"
                           className="h-10 w-10 rounded-full"
+                          loader={() => <p>Loading..</p>}
                         />
                       )}
                       <dl className="whitespace-nowrap text-sm font-medium leading-5">
