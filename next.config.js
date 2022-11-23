@@ -60,7 +60,7 @@ module.exports = withBundleAnalyzer({
         hostname: 'avatars.githubusercontent.com'
       },
     ],
-    loader: "imgix"
+    loader: "custom"
   },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
